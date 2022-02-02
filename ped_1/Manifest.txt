@@ -1,0 +1,3 @@
+Main-Class: app.Main
+Class-Path: lib/jOpenDocument-1.3.jar
+
